@@ -3,14 +3,14 @@ All Model Links Can Be found Here : [PETRAINED MODELS](https://huggingface.co/tr
 
 ## Model:  **RoBERTa** [A Robustly Optimized BERT Pretraining Approach]
 
-  - Accuracy:
+  -Accuracy
   
     85%
 
-  - Notebook Name : 
+  -Notebook Name
   
     Mod_Roberta_Acc_85_Param_120M.ipynb
 
-  - Details : 
+  -Details
   
     12-layer, 768-hidden, 12-heads, 125M parameters RoBERTa using the BERT-base architecture
