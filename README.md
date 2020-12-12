@@ -9,7 +9,7 @@ All Model Links Can Be found Here : [PETRAINED MODELS](https://huggingface.co/tr
 
   -Notebook
   
-    Mod_Roberta_Acc_85_Param_120M.ipynb
+   https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/Mod_Roberta_Acc_85_Param_120M.ipynb
 
   -Details
   
@@ -23,7 +23,7 @@ All Model Links Can Be found Here : [PETRAINED MODELS](https://huggingface.co/tr
   
   -Notebook
   
-    https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/Mod_distilroberta_Acc_82_Param_80M.ipynb
+   https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/Mod_distilroberta_Acc_82_Param_80M.ipynb
     
   -Details
        	
@@ -38,7 +38,7 @@ All Model Links Can Be found Here : [PETRAINED MODELS](https://huggingface.co/tr
 
   -Notebook
   
-    https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/Mod_XLnet_Acc_79_Param_110M.ipynb
+   https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/Mod_XLnet_Acc_79_Param_110M.ipynb
     
   -Details
     
@@ -52,7 +52,7 @@ All Model Links Can Be found Here : [PETRAINED MODELS](https://huggingface.co/tr
   
   -Notebook
     
-    https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/Mod_XLnet_large_Acc_75.ipynb
+   https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/Mod_XLnet_large_Acc_75.ipynb
   
   -Details
     
