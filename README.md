@@ -1,7 +1,16 @@
-# Summary
-All Model Links Can Be found Here : [PETRAINED MODELS](https://huggingface.co/transformers/pretrained_models.html) 
 
-## Model:  **RoBERTa-base** [A Robustly Optimized BERT Pretraining Approach]
+# Summary
+### Highlights
+- Our model is perhaps the most versatile and sophisticated 
+- Highest model Accuracy is 85% and may go up, original model was trained for 2hrs or 10 epochs. 
+- Use of AWS services [S3] in Program to fully automate ML Pipeline and Save/load Of checkpoints, security increased by clearing output whenever we enter sensitive password or access keys.
+
+All Model Links Can Be found Here : [PETRAINED MODELS](https://huggingface.co/transformers/pretrained_models.html)
+
+# *Individual Model Summary* 
+outputs and details each model tested has been put below in form of brief summary. 
+
+## Model:  RoBERTa-base [A Robustly Optimized BERT Pretraining Approach]
 
   -Accuracy
   
