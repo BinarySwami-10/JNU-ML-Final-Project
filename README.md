@@ -8,6 +8,7 @@
 - run as usual and comment out any ! commands using aws (amazon web services)
 - do not train the model in! we are using trained weights. to avoid training comment out section 'START TRAINING'
 
+[IMAGE](https://www.codemotion.com/magazine/wp-content/uploads/2020/05/bert-google-896x504.png)
 # Summary
 ### Highlights
 - Our model is perhaps the most versatile and sophisticated in our batch.
