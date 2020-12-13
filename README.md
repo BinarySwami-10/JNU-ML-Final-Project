@@ -2,6 +2,13 @@
 
 ### Best model is 1.BestModel RoBERTa Results.ipynb Notebook, [please see here](https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/1_BestModel_RoBERTa_Results.ipynb)
 
+# How to use
+- open in colab
+- run instance
+- download and extract this model [LINK]() in ./outputs folder as it is.
+- run as usual and comment out any ! commands using aws (amazon web services)
+- do not train the model in! we are using trained weights. to avoid training comment out section 'START TRAINING'
+
 # Summary
 ### Highlights
 - Our model is perhaps the most versatile and sophisticated in our batch.
