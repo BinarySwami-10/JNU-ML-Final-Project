@@ -15,7 +15,7 @@ All Model Links in the API available for use Can Be found Here : [PETRAINED MODE
 
   -Accuracy
   
-    85.07109004739336%
+    91%
 
   -Notebook
   
