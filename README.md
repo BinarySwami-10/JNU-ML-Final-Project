@@ -1,6 +1,6 @@
 ### Problem Statement : Covid-19 tweet sentiment Analysis
 
-### Best model is 1.BestModel RoBERTa Results.ipynb Notebook, please see
+### Best model is 1.BestModel RoBERTa Results.ipynb Notebook, [please see here](https://github.com/BinarySwami-10/JNU-ML-Final-Project/blob/main/1_BestModel_RoBERTa_Results.ipynb)
 
 # Summary
 ### Highlights
