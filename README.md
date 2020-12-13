@@ -3,7 +3,7 @@
 # Summary
 ### Highlights
 - Our model is perhaps the most versatile and sophisticated in our batch.
-- Highest model Accuracy is 85% and may go up, original model was trained for 2hrs or 10 epochs. 
+- Highest model Accuracy is 90% and may go up, original model was trained for 2hrs or 10 epochs. 
 - Use of AWS services [S3] in Program to fully automate ML Pipeline and Save/load Of checkpoints, security increased by clearing output whenever we enter sensitive password or access keys.
 
 
