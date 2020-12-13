@@ -4,7 +4,7 @@
 
 # How to use
 - open in colab and run instance 
-- download and extract this model [MODEL LINK outputs.zip](https://nikhil-colab-bucket.s3-us-west-2.amazonaws.com/outputs.zip) in ./outputs folder as it is.
+- download and extract this model ,only works for roberta [MODEL LINK outputs.zip](https://nikhil-colab-bucket.s3-us-west-2.amazonaws.com/outputs.zip) in ./outputs folder as it is.
 - run as usual and comment out any ! commands using aws (amazon web services)
 - do not train the model in! we are using trained weights. to avoid training comment out section 'START TRAINING'
 
