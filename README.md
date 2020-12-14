@@ -1,6 +1,6 @@
 ### Problem Statement : Covid-19 tweet sentiment Analysis
 
-### Best model is 1.BestModel RoBERTa Results.ipynb Notebook, [please see here](https://colab.research.google.com/drive/1Gq3_w9l2kPWKP_CQJjnnHB1mr7XiW9-M?usp=sharing) to evaluate in colab
+### Best model is 0.best_model.ipynb first file in github repo. Notebook, [please see here](https://colab.research.google.com/drive/1Gq3_w9l2kPWKP_CQJjnnHB1mr7XiW9-M?usp=sharing) to evaluate in colab
 
 # How to use
 - open in colab and run instance 
