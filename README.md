@@ -1,6 +1,8 @@
 ### Problem Statement : Covid-19 tweet sentiment Analysis
 
-#### Best model is 0.best_model.ipynb first file in github repo. Notebook, [please see here](https://colab.research.google.com/drive/1Gq3_w9l2kPWKP_CQJjnnHB1mr7XiW9-M?usp=sharing) to evaluate in colab
+#### Best model Notebook:: 0.best_model.ipynb Probably first file in repo
+
+[please see here](https://colab.research.google.com/drive/1Gq3_w9l2kPWKP_CQJjnnHB1mr7XiW9-M?usp=sharing) to evaluate in colab, and get realtime results.
 
 #### Summary File :0z_bestmodel_summary.ipynb, probably second file in repo.
 
